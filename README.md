@@ -24,7 +24,7 @@ y relaciónalos con los resultados analizados
     * El informe se debe subir a la carpeta [results/task4](results/task4) con el nombre caracteristicas.md
 
 # Participantes
-Enrique Robles Puentes and Ángel Pinardo Morollón
+Enrique Robles Puentes, Ángel Pinardo Morollón
 
 # Enlaces de utilidad
 - [Sintaxis markdown](https://guides.github.com/features/mastering-markdown/)
