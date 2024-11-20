@@ -46,7 +46,8 @@ Upload the report to the [results/task4](results/task4) folder with the name car
 
 
 # Participants
-**INDICATE PARTICIPANTS HERE**
+Angel Pinardo Morollon
+Enrique Robles Puentes
 
 # Useful Links
 
