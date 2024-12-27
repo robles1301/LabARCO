@@ -17,10 +17,10 @@ As learning outcomes from the lab yo will:
 Remember you should always compile with **icpx -fsycl**
 
 # Task 1
-[Link](results/task1)
+[results/task1](results/task1)
 
 # Task 2
-[Link](src/task2)
+[results/task2](results/task2)
 
 
 
