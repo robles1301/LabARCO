@@ -17,7 +17,7 @@ As learning outcomes from the lab yo will:
 Remember you should always compile with **icpx -fsycl**
 
 # Task 1
-[Link]([src/task1](https://github.com/robles1301/LabARCO/tree/main/Hyperespectral%20DPC/results/task1))
+[Link](Hyperespectral DPC/results/task1)
 
 # Task 2
 [Link](src/task2)
